@@ -1,4 +1,4 @@
-import json
+
 import time
 import pyautogui
 from selenium import webdriver
