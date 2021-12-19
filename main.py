@@ -1,6 +1,4 @@
 import time
-import os
-os.environ['DISPLAY'] = ':0'
 import pyautogui
 from selenium import webdriver
 
